@@ -1,12 +1,13 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import home from './components/img/home.jpg'
+import Router from './components/Router';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1>Welcome</h1>
-      </header>
+    <div>
+      <Router/>
     </div>
   );
 }
