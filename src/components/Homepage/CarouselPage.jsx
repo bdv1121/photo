@@ -2,7 +2,7 @@ import React from 'react'
 import Carousel from 'react-bootstrap/Carousel';
 import img from '../img/36.jpg';
 import img1 from '../img/4.jpg'
-import img2 from '../img/30.jpg'
+import img2 from '../img/25.jpg'
 import './carousel.css'
 import { Button } from 'react-bootstrap';
 
