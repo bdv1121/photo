@@ -4,15 +4,14 @@ import Navigation from '../Navigation/Navbar'
 import home from '../img/55.jpg'
 import CarouselPage from './CarouselPage'
 import Peace from '../Pages/Peace'
+import Footer from '../Footer/Footer'
 
 
 function Home() {
   return (
-    <div>
-      
+    <div> 
         <Navigation />  
-        
-       
+        <Footer/>
     </div>
   )
 }

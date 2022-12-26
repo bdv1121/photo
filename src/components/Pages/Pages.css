@@ -5,7 +5,19 @@
     height: 200px;
     margin: 0 auto;
   }
-  
-  .zoom:hover {
-    transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+.textFeild{
+color: rgb(86, 224, 88);
+text-align: center;
+padding: 5px;
   }
+  .zoom:hover {
+    transform: scale(1.05); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+.textFeild1{
+color: rgb(210, 143, 8);
+text-align: center;
+padding: 5px;
+}
+.random{
+    height: 500px;
+}
