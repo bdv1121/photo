@@ -1,13 +1,13 @@
 import React from 'react';
 import './App.css';
 import home from './components/img/home.jpg'
-import Router from './components/Router';
+import Home from './components/Homepage/Home';
 
 
 function App() {
   return (
     <div>
-      <Router/>
+      <Home />
     </div>
   );
 }

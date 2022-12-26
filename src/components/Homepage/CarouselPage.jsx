@@ -15,10 +15,6 @@ function CarouselPage() {
                 className="d-block w-100 carousel"
                 src={img2}
                 />
-                <Carousel.Caption>
-                    <a href ="peace" className='btn btn-transparent'>Click here</a>
-                    <p>Some of random pictures</p>
-                </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item interval={1000}>
                 <img
